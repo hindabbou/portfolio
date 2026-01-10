@@ -11,9 +11,27 @@ I am passionate about building practical and secure software solutions with real
 - Problem Solving
 
 ## Projects
-- Project 1: Short description (what it does, who it helps)
-- Project 2: Short description
-- Project 3: Short description
+
+- **Interactive Multi-Player Quiz**  
+  An interactive web-based quiz application with multi-player support and score tracking.  
+  *Technologies:* HTML, CSS, JavaScript
+
+- **Sports Reservation System (Laravel)**  
+  A web application for booking sports terrains and equipment.  
+  *Technologies:* Laravel, PHP.
+  
+### Social Network Management System (C++ – OOP)
+A console-based social network management system developed in C++ using Object-Oriented Programming principles.
+The application allows the creation of standard and premium users, friend management, and publication handling.
+Premium users have a configurable friend limit, which is strictly enforced by the system.
+*Technologies:* C++, Object-Oriented Programming, Makefile
+*Key Concepts Implemented:*
+- Classes and objects
+- Inheritance (Utilisateur / UtilisateurPremium)
+- Operator overloading (`+=` for adding friends, `<<` for display)
+- Encapsulation and data validation
+- Prevention of duplicate friends
+- Modular code structure (.h / .cpp)
 
 ## Technologies
 - Programming: C++
