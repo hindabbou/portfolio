@@ -14,6 +14,7 @@ I am passionate about building practical and secure software solutions with real
 - **Interactive Multi-Player Quiz**  
   An interactive web-based quiz application with multi-player support and score tracking.  
   *Technologies:* HTML, CSS, JavaScript
+  
   **Repository:** https://github.com/hindabbou/interactive-multiplayer-quiz
 
 - **Sports Reservation System (Laravel)**  
@@ -32,6 +33,7 @@ Premium users have a configurable friend limit, which is strictly enforced by th
 - Encapsulation and data validation
 - Prevention of duplicate friends
 - Modular code structure (.h / .cpp)
+- 
   **Repository:** https://github.com/hindabbou/Social-Network-Management-System.git
 ## Technologies
 - Programming: C++
