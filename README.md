@@ -37,7 +37,7 @@ Premium users have a configurable friend limit, which is strictly enforced by th
   **Repository:** https://github.com/hindabbou/Social-Network-Management-System.git
 ## Technologies
 - Programming: C++
-- Web Development: HTML, CSS, JavaScript, PHP,Java,python
+- Web Development: HTML, CSS, JavaScript, PHP,Java,Python
 - Databases: SQL, PL/SQL,SQLserver,PostgreSql
 - Operating Systems: Linux
 - Tools & Concepts: Git, GitHub, Algorithms, Data Structures,OOP
